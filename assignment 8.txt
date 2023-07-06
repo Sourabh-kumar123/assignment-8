@@ -1,0 +1,55 @@
+ANSWER 1:-
+num1 = 10
+num2 = 5
+addition_result = num1 + num2
+subtraction_result = num1 - num2
+division_result = num1 / num2
+multiplication_result = num1 * num2
+print("Addition: ", addition_result)
+print("Subtraction: ", subtraction_result)
+print("Division: ", division_result)
+print("Multiplication: ", multiplication_result)
+
+ANSWER 2:-
+i) "/" ->it is division operator which return quotient in decimal as well as integer form.
+and "//" it is floor division which return quotient in int data type.
+ii)'**" it is the sign of power
+and "^" this is bitwise xor operator which return 1 when both variable are same.
+
+
+ANSWER 3:-
+logical operator 
+AND OR NOT
+AND - both condition need to be true
+OR  - one condtion need to be true
+NOT - it is vice versa means do oppopite .it will make false which is true.
+
+ANSWER 4:-
+
+num = 10  
+result = num >> 2 
+print(result)
+
+um = 5 
+result = num << 2 
+print(result)  
+the right shift operator (>>) moves the bits towards the right, effectively
+ dividing the number by 2 for each shift. On the other hand,
+ the left shift operator (<<) moves the bits towards the left, effectively
+ multiplying the number by 2 for each shift.
+
+
+ANSWER 5:
+lst = [2, 5, 8, 10, 12, 15, 18, 20, 22, 25, 28, 30, 32, 35, 38]
+if 10 in lst:
+    print("10 is present in the list.")
+else:
+    print("10 is not present in the list.")
+
+
+
+
+
+
+
+
